@@ -2,17 +2,20 @@
 
 <!--
 **ngmars/ngmars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-
-![ngmars's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngmars&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngmars&layout=compact)](https://github.com/ngmars/github-readme-stats)
+<table>
+  <tr>
+  <td><img src='./astronaut.svg'/></td
+  <td>
+  🔭 I'm current pursuing my Bachelor's at VIT University, Vellore <br/>
+  📫 You can reach out to me at nitishgopinath@gmail.com <br/>
+  👯 You can check me out at https://ngmars.github.io/portfolio-site/<br/>
+  💬 Love helping others, ask me about Full Stack Development <br/>
+  😄 Pronouns: He/Him<br/>
+  ⚡ Fun fact: Can't think of something fun right now, will keep you posted tho 💜 <br/>
+</td>
+  </tr/>
+  <tr>
+    <td>![ngmars's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngmars&show_icons=true&theme=radical) </td><td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngmars&layout=compact)](https://github.com/ngmars/github-readme-stats)</td>
+    </tr>
+ </table>
