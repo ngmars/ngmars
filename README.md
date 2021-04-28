@@ -3,7 +3,7 @@
 <!--
 **ngmars/ngmars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<table>
+<table style="background-color:black">
   <tr>
     <td><img src='./astronaut.svg'/></td>
   <td>
