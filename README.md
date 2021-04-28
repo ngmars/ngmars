@@ -16,6 +16,3 @@
 </td>
   </tr>
  </table>
-  ![ngmars's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngmars&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngmars&layout=compact)](https://github.com/ngmars/github-readme-stats)
-
-
