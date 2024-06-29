@@ -10,7 +10,7 @@
   🔭 Data scientist at DNV, Masters student an Uni Heidelberg, DE <br/>
   📫 You can reach out to me at nitishgopinath.de@gmail.com <br/>
   👯 You can check me out at www.nitishgopinath.tech<br/>
-  💬 LAsk me about Full Stack Development <br/>
+  💬 Ask me about Full Stack Development <br/>
 </td>
   </tr>
  </table>
